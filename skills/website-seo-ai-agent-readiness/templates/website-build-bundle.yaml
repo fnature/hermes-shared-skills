@@ -1,0 +1,11 @@
+name: website-build
+description: Build or update a production-quality website with design and readiness disciplines.
+skills:
+  - frontend-design
+  - website-seo-ai-agent-readiness
+instruction: |
+  Apply both skills proportionally to the requested change.
+  Preserve approved design, public facts, URLs, privacy boundaries, and existing functionality.
+  Treat canonical HTML and human usability as primary.
+  Do not implement optional AI artifacts without checking applicability and maintainability.
+  Verify the resulting artifact with real builds, audits, and rendered QA appropriate to the change.

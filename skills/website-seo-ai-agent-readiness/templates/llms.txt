@@ -1,0 +1,12 @@
+# Example Website
+
+> Concise factual description of the official website.
+
+## Main pages
+
+- [Home](https://example.com/)
+- [About](https://example.com/about.md)
+
+## Important resources
+
+- [Contact](https://example.com/contact.md)
