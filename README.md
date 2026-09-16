@@ -18,6 +18,11 @@ skills:
 
 Local profile skills take precedence over shared skills with the same name. Do not create a profile-local copy of a shared skill unless an intentional override is required.
 
+## Shared skills
+
+- `jira-ticket-writing`: concise Jira tickets with simple, high-level `Titre`/`Je veux`, value-oriented `Afin de`, and technical detail in `Contexte` and acceptance criteria.
+- `website-seo-ai-agent-readiness`: production website quality across SEO, accessibility, performance, and AI/agent-readable delivery.
+
 ## Website workflow
 
 The `website-seo-ai-agent-readiness` skill complements `frontend-design`:
